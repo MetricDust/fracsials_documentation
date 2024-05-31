@@ -1,0 +1,11 @@
+- Getting started
+    - [Fracsials](about-fracsials.md)
+    - [Fracsials Dashboards](dashboard.md)
+    - [Understanding Micro-Frontends](mfe.md)
+- Guide to Investors & Developers
+    - [Angular Microfrontends - Implementation](mfe-docs.md)
+    - User guide to Dashboard
+        - [Register/Login](user.md#Register-and-Login)
+        - [KYC Process](user.md#KYC-Process)
+        - [Create, Join & Invest](user.md#Create-Join-Invest)
+    
